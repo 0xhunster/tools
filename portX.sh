@@ -1,7 +1,7 @@
 #!/bin/bash
 
 usage() {
-    echo "Usage: $0 -d domainlist.txt -p portlist.txt" 1>&2
+    echo "Usage: $0 -d domainlist.txt -p iplist.txt" 1>&2
     exit 1
 }
 
